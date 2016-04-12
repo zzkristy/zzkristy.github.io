@@ -1,0 +1,3 @@
+markdown: Kramdown
+markdown_ext:  markdown,mkd,mkdn,md
+safe: false
